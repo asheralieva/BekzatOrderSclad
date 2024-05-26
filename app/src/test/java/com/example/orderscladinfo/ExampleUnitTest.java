@@ -1,4 +1,4 @@
-package com.example.ordersshoplailieva;
+package com.example.orderscladinfo;
 
 import org.junit.Test;
 

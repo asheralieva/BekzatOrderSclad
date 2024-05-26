@@ -1,7 +1,7 @@
-package com.example.ordersshoplailieva.remote_data;
+package com.example.orderscladinfo.remote_data;
 
-import com.example.ordersshoplailieva.models.Order;
-import com.example.ordersshoplailieva.models.User;
+import com.example.orderscladinfo.models.Order;
+import com.example.orderscladinfo.models.User;
 
 import java.util.List;
 

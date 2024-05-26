@@ -1,4 +1,4 @@
-package com.example.ordersshoplailieva.models;
+package com.example.orderscladinfo.models;
 
 public class LoginResponse {
     private String access_token;

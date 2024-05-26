@@ -1,20 +1,16 @@
-package com.example.ordersshoplailieva.ui.dashboard;
+package com.example.orderscladinfo.ui.dashboard;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProvider;
 
-import com.example.ordersshoplailieva.databinding.FragmentDashboardBinding;
-import com.example.ordersshoplailieva.models.Order;
-import com.example.ordersshoplailieva.models.User;
-import com.example.ordersshoplailieva.remote_data.RetrofitClient;
-import com.example.ordersshoplailieva.ui.home.HomeAdapter;
+import com.example.orderscladinfo.databinding.FragmentDashboardBinding;
+import com.example.orderscladinfo.models.User;
+import com.example.orderscladinfo.remote_data.RetrofitClient;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +18,6 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import retrofit2.Retrofit;
 
 public class DashboardFragment extends Fragment {
 

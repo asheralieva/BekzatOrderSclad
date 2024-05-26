@@ -1,4 +1,4 @@
-package com.example.ordersshoplailieva.models;
+package com.example.orderscladinfo.models;
 
 import android.os.Parcel;
 import android.os.Parcelable;

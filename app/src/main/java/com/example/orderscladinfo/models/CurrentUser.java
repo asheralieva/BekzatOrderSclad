@@ -1,4 +1,4 @@
-package com.example.ordersshoplailieva.models;
+package com.example.orderscladinfo.models;
 
 public class CurrentUser {
     String email;

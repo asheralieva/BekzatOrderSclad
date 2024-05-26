@@ -1,18 +1,16 @@
-package com.example.ordersshoplailieva.ui.dashboard;
+package com.example.orderscladinfo.ui.dashboard;
 
 import android.content.Context;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ordersshoplailieva.databinding.ItemUserBinding;
-import com.example.ordersshoplailieva.models.User;
+import com.example.orderscladinfo.databinding.ItemUserBinding;
+import com.example.orderscladinfo.models.User;
 
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
     ItemUserBinding binding;

@@ -1,15 +1,14 @@
-package com.example.ordersshoplailieva.ui.home;
+package com.example.orderscladinfo.ui.home;
 
 import android.content.Context;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ordersshoplailieva.databinding.ItemOrderBinding;
-import com.example.ordersshoplailieva.models.Order;
+import com.example.orderscladinfo.databinding.ItemOrderBinding;
+import com.example.orderscladinfo.models.Order;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

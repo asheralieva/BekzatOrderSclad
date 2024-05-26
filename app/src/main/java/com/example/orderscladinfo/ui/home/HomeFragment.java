@@ -1,19 +1,16 @@
-package com.example.ordersshoplailieva.ui.home;
+package com.example.orderscladinfo.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProvider;
 
-import com.example.ordersshoplailieva.databinding.FragmentHomeBinding;
-import com.example.ordersshoplailieva.models.Order;
-import com.example.ordersshoplailieva.models.User;
-import com.example.ordersshoplailieva.remote_data.RetrofitClient;
+import com.example.orderscladinfo.databinding.FragmentHomeBinding;
+import com.example.orderscladinfo.models.Order;
+import com.example.orderscladinfo.remote_data.RetrofitClient;
 
 import java.util.ArrayList;
 import java.util.List;

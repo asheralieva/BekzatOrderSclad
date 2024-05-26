@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ordersshoplailieva"
+    namespace = "com.example.orderscladinfo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ordersshoplailieva"
+        applicationId = "com.example.orderscladinfo"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

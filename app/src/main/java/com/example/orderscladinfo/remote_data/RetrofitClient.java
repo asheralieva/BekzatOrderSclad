@@ -1,7 +1,7 @@
-package com.example.ordersshoplailieva.remote_data;
+package com.example.orderscladinfo.remote_data;
 
 
-import com.example.ordersshoplailieva.constant.ConstantApi;
+import com.example.orderscladinfo.constant.ConstantApi;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
